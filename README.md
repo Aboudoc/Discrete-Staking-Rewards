@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aboudoc/Discrete-Staking-Rewards.git">
-    <img src="images/logo.png" alt="Logo" width="140" height="140">
+    <img src="images/logo.png" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">Synthetix Staking Rewards</h3>
