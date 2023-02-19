@@ -11,10 +11,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aboudoc/Discrete-Staking-Rewards.git">
-    <img src="images/logo.png" alt="Logo" width="160" height="160">
+    <img src="images/logo.png" alt="Logo" width="180" height="180">
   </a>
 
-<h3 align="center">Synthetix Staking Rewards</h3>
+<h3 align="center">Discrete Staking Rewards</h3>
 
   <p align="center">
     A very simple staking contract 
