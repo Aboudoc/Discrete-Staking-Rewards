@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aboudoc/Discrete-Staking-Rewards.git">
-    <img src="images/logo.png" alt="Logo" width="100" height="80">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Synthetix Staking Rewards</h3>
@@ -128,7 +128,11 @@ The difference is that the amount of rewards given can vary every second.
 
 ## Maths
 
-Coming soon...
+You'll find below the formula to compute rewards earned by a user from k to n seconds:
+
+<div>
+ <img src="images/math01.png" alt="Maths">
+ </div>
 
 ### Further reading
 
