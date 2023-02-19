@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aboudoc/Discrete-Staking-Rewards.git">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">Synthetix Staking Rewards</h3>
@@ -143,7 +143,7 @@ You'll find below a simple example using the main equation:
  </div>
 
  <div>
- <img src="images/math04.png" alt="Maths">
+ <img src="images/maths04.png" alt="Maths">
  </div>
 
 ### Further reading
