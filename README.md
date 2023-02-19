@@ -128,10 +128,22 @@ The difference is that the amount of rewards given can vary every second.
 
 ## Maths
 
-You'll find below the formula to compute rewards earned by a user from k to n seconds:
+You'll find below a simple example using the main equation:
 
 <div>
  <img src="images/math01.png" alt="Maths">
+ </div>
+
+<div>
+ <img src="images/math02.png" alt="Maths">
+ </div>
+
+ <div>
+ <img src="images/math03.png" alt="Maths">
+ </div>
+
+ <div>
+ <img src="images/math04.png" alt="Maths">
  </div>
 
 ### Further reading
